@@ -1,0 +1,6 @@
+[
+    name: 'Felipe'
+    apiKey: 'FGJRcXSEWJA1CO1tnYtt9B14v14YBLBJ'
+    scripts:
+        'scraping_mails.js': '/Users/fvera/Desktop/Growth Hack & Drip Marketing/scraping/phantom-project'
+]
